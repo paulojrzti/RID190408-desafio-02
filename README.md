@@ -1,1 +1,3 @@
-# RID190408-desafio-02
+Projeto de blog responsivo utilizando media queries 
+
+link:https://blogresponsivodnc.netlify.app/
